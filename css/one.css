@@ -1,0 +1,50 @@
+.color-option,
+.option-box .gear-check,
+.slider1 button,
+.above,
+.nav.notaion, 
+.navagation-bar .slidebar ul li,
+.above .toggle span, 
+.slider1 .sliderin span:first-child::after,
+.slider1 .sliderin span:last-child::after{
+    /*background-color:#553758;*/
+    background-color:#512d54
+}
+.nav h2,
+.nav ul li a,
+.option-box .color-option h4,
+.option-box .gear-check,
+.above h1,
+.navagation-bar .slidebar ul li,
+.navagation-bar .slidebar ul li a,
+.slider1 .sliderin span:first-child, 
+.slider1 .sliderin span:last-child,
+.slider1 .sliderin h1,
+.slider1 button,
+.product .up h3,
+.product .up p,
+.product  hr,
+.product .insider .inside .img1 .img2 .hover .text,
+.product .insider .inside .top h3,
+.product .insider .inside .top p,
+.product .insider .inside section,
+.product .insider .inside .down ul i,
+.product .insider .inside .down p
+{
+    /*color: #d1e5ff;*/
+    color :#d1dae2
+}
+
+.product .up h3,
+.product .up p,
+.product  hr,
+.product .insider .inside .img1 .img2 .hover .text,
+.product .insider .inside .top h3,
+.product .insider .inside .top p,
+.product .insider .inside section,
+.product .insider .inside .down ul i,
+.product .insider .inside .down p
+{
+    color: #3968a7
+    
+}
